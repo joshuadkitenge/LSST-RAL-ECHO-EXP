@@ -1,1 +1,1 @@
-butler write-curated-calibrations ~/lsst/GEN3_run_time_test HSC
+butler write-curated-calibrations ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run_time_test HSC

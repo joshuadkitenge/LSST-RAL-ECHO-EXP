@@ -1,1 +1,1 @@
-butler ingest-raws ~/lsst/GEN3_run_time_test ~/lsst/DATA_gen3/HSC/raw/
+butler ingest-raws ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run_time_test ~/LSST-RAL-ECHO-EXP/lsst/DATA_gen3/HSC/raw/
