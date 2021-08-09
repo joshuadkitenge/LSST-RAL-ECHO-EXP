@@ -1,0 +1,1 @@
+pipetask run  -b ~/lsst/GEN3_run_time_test/ --input processCcdOutputs --input skymaps --input  HSC/raw/all,refcats,HSC/calib --input coadd  --register-dataset-types -p ~/lsst/DRP.yaml#multiband --instrument lsst.obs.subaru.HyperSuprimeCam --output-run Multiband

@@ -1,0 +1,822 @@
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  0.0  0.0       00:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  194  0.2       00:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  141  0.5       00:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  125  0.7       00:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  108  0.7       00:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  106  0.8       00:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_  105  0.9       00:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 98.4  0.9       00:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 95.0  0.9       00:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 92.0  1.1       00:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 90.5  1.4       00:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 91.0  1.9       00:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 91.9  2.1       00:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 92.8  2.5       00:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 93.4  2.9       00:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 94.1  2.5       00:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 94.6  2.8       00:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 95.1  2.8       00:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 95.5  2.7       00:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 95.9  3.2       00:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 96.3  3.2       00:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 96.6  3.3       00:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 92.6  3.2       00:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 93.0  3.2       00:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 93.4  3.2       00:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 93.8  3.2       00:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 92.3  1.8       00:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 90.3  2.0       00:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 88.5  1.8       00:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 87.4  1.8       00:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.0  1.8       00:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 83.0  1.8       00:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  1.2       00:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.9  1.4       00:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.2  1.6       00:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.6  2.0       00:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 83.2  2.6       00:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 83.7  2.6       00:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 84.1  2.6       00:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 84.6  2.8       00:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.0  3.2       00:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.4  3.2       00:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.9  3.6       00:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 86.2  3.2       00:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.8  1.8       00:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 85.1  1.8       00:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 84.2  1.8       00:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 83.3  1.8       00:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.8  1.8       00:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  1.8       00:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  1.2       00:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  1.4       00:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  1.6       00:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  2.0       00:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  2.2       00:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.6       00:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  2.6       00:57
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  2.6       00:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.7  2.6       00:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.1  2.6       01:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  2.6       01:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.2       01:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.7  3.6       01:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.1  3.3       01:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.4  3.2       01:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.7  3.2       01:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 82.3  1.8       01:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.7  1.8       01:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  1.8       01:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  1.8       01:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  1.8       01:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  1.8       01:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  1.2       01:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  1.4       01:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  1.6       01:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  2.1       01:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  2.3       01:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  2.7       01:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  2.7       01:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  2.7       01:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  2.9       01:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  2.6       01:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  3.3       01:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  3.3       01:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  3.3       01:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  1.9       01:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  1.9       01:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.7  1.9       01:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  1.9       01:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  1.9       01:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  1.9       01:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.2  1.9       01:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.6  1.9       01:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.0  1.2       01:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.0  1.3       01:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.0  1.7       01:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 75.2  1.9       01:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 75.4  2.0       01:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 75.7  2.1       01:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.0  2.7       01:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.3  3.0       01:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.5  2.7       01:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.8  2.7       01:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.0  2.7       01:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.2  2.7       01:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.5  2.7       01:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  2.9       01:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  2.5       01:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  3.3       01:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  3.3       01:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  3.3       01:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  3.3       01:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  3.5       01:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  3.3       01:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  3.3       01:57
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  3.3       01:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  1.9       01:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  1.9       02:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  1.9       02:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  1.9       02:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  1.9       02:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.4  1.9       02:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.0  1.2       02:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.8  1.3       02:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.0  1.7       02:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.2  1.9       02:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.4  1.9       02:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.6  2.6       02:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  2.9       02:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  2.6       02:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  2.6       02:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.3  2.6       02:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  2.6       02:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  2.6       02:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.3  2.6       02:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  2.6       02:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  2.7       02:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  3.1       02:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  3.3       02:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.1  3.3       02:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  3.3       02:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  3.3       02:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  3.3       02:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  3.3       02:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  1.9       02:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  1.9       02:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  1.9       02:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  1.9       02:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  1.9       02:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  1.9       02:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  1.2       02:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.6  1.2       02:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  1.4       02:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.8  1.7       02:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  2.1       02:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  2.1       02:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.2  2.6       02:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  3.0       02:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  2.6       02:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  2.6       02:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  2.7       02:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  2.7       02:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.1  3.3       02:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  3.7       02:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  3.3       02:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  3.3       02:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.7  3.3       02:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  3.3       02:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  1.9       02:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  1.9       02:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  1.9       02:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  1.9       02:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  1.9       02:57
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  1.9       02:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  1.3       02:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.6  1.3       03:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  1.7       03:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  1.9       03:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.8  2.1       03:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  2.7       03:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  2.8       03:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.2  2.7       03:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  2.6       03:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  3.3       03:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  3.3       03:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  3.3       03:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.9  3.3       03:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  1.9       03:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  1.9       03:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  1.9       03:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  1.9       03:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  1.9       03:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.4  1.9       03:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.1  1.9       03:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 76.9  1.3       03:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.1  1.5       03:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.1  1.8       03:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.2  2.1       03:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.3  2.3       03:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.4  2.7       03:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.6  2.8       03:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  2.7       03:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.8  2.7       03:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.5  2.7       03:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.7  2.7       03:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.8  2.7       03:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  2.9       03:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  2.7       03:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  2.7       03:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.2  3.3       03:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  3.3       03:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  3.3       03:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  3.3       03:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  3.4       03:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  3.3       03:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.9  3.3       03:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  3.3       03:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.1  3.3       03:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  1.9       03:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  1.9       03:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.9  1.9       03:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  1.9       03:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  1.9       03:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.2  1.9       03:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  1.3       03:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 77.9  1.3       03:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.0  1.5       03:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.1  1.7       03:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.2  2.1       03:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.3  2.1       03:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.4  2.5       03:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.5  2.7       03:57
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.6  3.2       03:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.7  3.2       03:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.8  2.7       04:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 78.9  2.7       04:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  2.7       04:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.1  2.7       04:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  2.7       04:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  2.7       04:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.0  2.8       04:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.1  2.8       04:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.2  3.0       04:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  2.6       04:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  3.4       04:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  3.4       04:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  3.4       04:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.7  3.4       04:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  3.4       04:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  3.4       04:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.0  3.4       04:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  3.4       04:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  3.4       04:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  3.4       04:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  3.4       04:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  3.4       04:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  3.4       04:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  1.9       04:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  1.9       04:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  1.9       04:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  1.9       04:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  1.9       04:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.7  1.9       04:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  1.9       04:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  1.3       04:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.4  1.5       04:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.3  1.7       04:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  1.9       04:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.5  2.5       04:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.6  2.4       04:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.7  2.8       04:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.8  3.2       04:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  2.8       04:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  2.8       04:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.0  2.8       04:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  2.8       04:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  2.8       04:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.0  2.8       04:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  2.8       04:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  2.8       04:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  2.8       04:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  2.8       04:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.8       04:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  2.8       04:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  2.8       04:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.8       04:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  3.2       04:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.8       04:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  3.5       04:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  3.5       04:57
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  3.5       04:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  3.9       04:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  3.5       05:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  3.5       05:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.5       05:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.5       05:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.5       05:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.5  3.5       05:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.5  3.5       05:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  2.0       05:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  2.0       05:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  2.0       05:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  2.0       05:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.0       05:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.0       05:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.0       05:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  1.4       05:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  1.6       05:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  1.8       05:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  2.2       05:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.4       05:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  2.8       05:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  2.8       05:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.8       05:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.7       05:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  3.4       05:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  3.5       05:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  3.4       05:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  3.4       05:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.0       05:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  2.0       05:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.0       05:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  2.0       05:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.1  2.0       05:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.0  1.4       05:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 79.9  1.2       05:34
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.0  1.6       05:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  2.0       05:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.2  2.3       05:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.3  2.8       05:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.8       05:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  2.8       05:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  2.8       05:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.8       05:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.8       05:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  2.8       05:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  2.8       05:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.8       05:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  2.8       05:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  2.8       05:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  2.8       05:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  2.8       05:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  2.4       05:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  3.2       05:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  3.2       05:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.3       05:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       05:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       05:56
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.3       05:58
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.3       05:59
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       06:00
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       06:01
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  1.9       06:02
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  1.9       06:03
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  1.9       06:04
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  1.9       06:05
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  1.9       06:06
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  1.9       06:07
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.3       06:08
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.3       06:09
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.7       06:10
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.1       06:11
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.0       06:12
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  2.7       06:13
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.9       06:14
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.7       06:15
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  2.7       06:16
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  2.7       06:17
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  2.7       06:18
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  2.8       06:19
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  3.2       06:20
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  3.2       06:21
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  3.2       06:22
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.2       06:23
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  3.2       06:24
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       06:25
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  3.3       06:26
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.5  3.3       06:27
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.5  1.9       06:28
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.4  1.9       06:29
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.3  1.9       06:30
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.2  1.9       06:31
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  1.9       06:32
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  1.9       06:33
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.9       06:35
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  1.3       06:36
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.5       06:37
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.9       06:38
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.1       06:39
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.6  2.8       06:40
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  2.8       06:41
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  2.8       06:42
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.8       06:43
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  2.8       06:44
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  2.4       06:45
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  3.2       06:46
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  3.6       06:47
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  3.2       06:48
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  3.3       06:49
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.1  1.9       06:50
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 81.0  1.9       06:51
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.9  1.9       06:52
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.8  1.9       06:53
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.7  1.9       06:54
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.5  1.9       06:55
+  PID CMD                         %CPU %MEM     ELAPSED
+ 4207 python /home/vrs42921/lsst_ 80.4  1.3       06:56
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED
+  PID CMD                         %CPU %MEM     ELAPSED

@@ -1,0 +1,1 @@
+butler import s3://joshuakitenge_GEN3_run_time_test  ~/lsst/DATA_gen3 --export-file ~/lsst/exports.yaml

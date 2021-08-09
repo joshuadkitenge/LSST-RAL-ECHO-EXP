@@ -1,0 +1,1 @@
+pipetask run  -b ~/cephfs_lsst/joshua-kitenge/GEN3_run_time_test --input processCcdOutputs --input skymaps --input  HSC/raw/all,refcats,HSC/calib --input coadd --input coaddPhot_dec --input coaddPhot_MD  --register-dataset-types -p  ~/lsst/DRP.yaml:deblend --instrument lsst.obs.subaru.HyperSuprimeCam --output-run coaddPhot_DB
