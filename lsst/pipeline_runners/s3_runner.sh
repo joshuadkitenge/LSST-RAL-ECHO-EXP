@@ -18,11 +18,11 @@ mkdir ~/LSST-RAL-ECHO-EXP/lsst/test_S3_configs
 
 echo "Created the config repo"
 
-cp ~/LSST-RAL-ECHO-EXP/lsst/S3_config_hub/gen3.sqlite3 ~/lsst/test_S3_configs/gen3.sqlite3
+cp ~/LSST-RAL-ECHO-EXP/lsst/S3_config_hub/gen3.sqlite3 ~/LSST-RAL-ECHO-EXP/lsst/test_S3_configs/gen3.sqlite3
 
 echo "Copyed registry file"
 
-cp ~/LSST-RAL-ECHO-EXP/lsst/S3_config_hub/reg.yaml ~/lsst/test_S3_configs/reg.yaml
+cp ~/LSST-RAL-ECHO-EXP/lsst/S3_config_hub/reg.yaml ~/LSST-RAL-ECHO-EXP/lsst/test_S3_configs/reg.yaml
 
 echo "Copyed registry config"
 
@@ -62,14 +62,23 @@ echo "Done: butler make-discrete-skymap"
 
 echo "Done: coaddtions (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/detections/ ; source runner.sh)
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/multiband/ ; source runner.sh)
 
-echo "Done: detections (pipetask)"
+echo "Done: multiband (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/mergedetections/ ; source runner.sh)
 
-echo "Done: mergedetections (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/deblend/ ; source runner.sh)
 
-echo "Done: deblend (pipetask)"
+
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/detections/ ; source runner.sh)
+
+#echo "Done: detections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/mergedetections/ ; source runner.sh)
+
+#echo "Done: mergedetections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/S3/deblend/ ; source runner.sh)
+
+#echo "Done: deblend (pipetask)"

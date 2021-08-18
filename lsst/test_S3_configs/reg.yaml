@@ -1,2 +1,2 @@
 registry:
-  db: sqlite:////home/vrs42921/lsst/test_S3_configs/gen3.sqlite3 
+  db: sqlite:////home/vrs42921/LSST-RAL-ECHO-EXP/lsst/test_S3_configs/gen3.sqlite3 

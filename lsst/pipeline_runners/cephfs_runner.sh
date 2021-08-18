@@ -48,14 +48,20 @@ echo "Done: butler make-discrete-skymap"
 
 echo "Done: coaddtions (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/detections/ ; source runner.sh)
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/multiband/ ; source runner.sh)
 
-echo "Done: detections (pipetask)"
+echo "Done: multiband (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/mergedetections/ ; source runner.sh)
 
-echo "Done: mergedetections (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/deblend/ ; source runner.sh)
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/detections/ ; source runner.sh)
 
-echo "Done: deblend (pipetask)"
+#echo "Done: detections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/mergedetections/ ; source runner.sh)
+
+#echo "Done: mergedetections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/deblend/ ; source runner.sh)
+
+#echo "Done: deblend (pipetask)"

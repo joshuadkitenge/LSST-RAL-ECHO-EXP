@@ -17,9 +17,9 @@ fi
 
 echo "Done: butler create"
 
-if [ -f ~/lsst/GEN3_run_time_test/butler.yaml ]; then
-   (cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/register-instrument/ ; source runner.sh)
-fi
+
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/register-instrument/ ; source runner.sh)
+
 
 echo "Done: butler register-instruments"
 
@@ -51,14 +51,22 @@ echo "Done: butler make-discrete-skymap"
 
 echo "Done: coaddtions (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/detections/ ; source runner.sh)
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/multiband/ ; source runner.sh)
 
-echo "Done: detection (pipetask)"
+echo "Done: multiband (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/mergedetections/ ; source runner.sh)
 
-echo "Done: mergedetections (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/deblend/ ; source runner.sh)
 
-echo "Done: deblend (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/detections/ ; source runner.sh)
+
+#echo "Done: detection (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/mergedetections/ ; source runner.sh)
+
+#echo "Done: mergedetections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local_cd/deblend/ ; source runner.sh)
+
+#echo "Done: deblend (pipetask)"

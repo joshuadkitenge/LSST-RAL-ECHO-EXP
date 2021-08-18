@@ -7,7 +7,7 @@ echo "Deleted DATA repo"
 
 if [ ! -f ~/cephfs_lsst/joshua-kitenge/GEN3_run_time_test/butler.yaml ]; then
    
-   (cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs/create/ ; source runner.sh) 
+   (cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/create/ ; source runner.sh) 
 fi
 
 echo "Done: butler create"
@@ -47,14 +47,25 @@ echo "Done: butler make-discrete-skymap"
 
 echo "Done: coaddtions (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/detections/ ; source runner.sh)
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/multiband/ ; source runner.sh)
 
-echo "Done: detections (pipetask)"
+echo "Done: multiband (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/mergedetections/ ; source runner.sh)
 
-echo "Done: mergedetections (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/deblend/ ; source runner.sh)
 
-echo "Done: deblend (pipetask)"
+
+
+
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/detections/ ; source runner.sh)
+
+#echo "Done: detections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/mergedetections/ ; source runner.sh)
+
+#echo "Done: mergedetections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/deblend/ ; source runner.sh)
+
+#echo "Done: deblend (pipetask)"

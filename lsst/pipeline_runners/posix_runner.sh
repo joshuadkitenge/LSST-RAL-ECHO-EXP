@@ -51,14 +51,21 @@ echo "Done: butler make-discrete-skymap"
 
 echo "Done: coaddtions (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/detections/ ; source runner.sh)
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/multiband/ ; source runner.sh)
 
-echo "Done: detection (pipetask)"
+echo "Done: multiband (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/mergedetections/ ; source runner.sh)
 
-echo "Done: mergedetections (pipetask)"
 
-(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/deblend/ ; source runner.sh)
 
-echo "Done: deblend (pipetask)"
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/detections/ ; source runner.sh)
+
+#echo "Done: detection (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/mergedetections/ ; source runner.sh)
+
+#echo "Done: mergedetections (pipetask)"
+
+#(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/Local/deblend/ ; source runner.sh)
+
+#echo "Done: deblend (pipetask)"
