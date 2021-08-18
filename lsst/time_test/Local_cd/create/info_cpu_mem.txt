@@ -1,18 +1,32 @@
   PID CMD                         %CPU %MEM     ELAPSED
- 4988 python /home/vrs42921/lsst_  1.0  0.0       00:01
+19093 python /home/vrs42921/lsst_  0.0  0.0       00:00
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:33
   PID CMD                         %CPU %MEM     ELAPSED
- 4988 python /home/vrs42921/lsst_ 82.5  0.1       00:02
+19093 python /home/vrs42921/lsst_  124  0.1       00:01
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:34
   PID CMD                         %CPU %MEM     ELAPSED
- 4988 python /home/vrs42921/lsst_ 80.3  0.2       00:03
+19093 python /home/vrs42921/lsst_  109  0.2       00:02
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:35
   PID CMD                         %CPU %MEM     ELAPSED
- 4988 python /home/vrs42921/lsst_ 72.0  0.3       00:04
+19093 python /home/vrs42921/lsst_ 87.6  0.3       00:03
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:36
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:37
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.9       20:38
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:39
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:40
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:41
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:43
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.9       20:44
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:45
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.9       20:46
   PID CMD                         %CPU %MEM     ELAPSED
+26333 python /home/vrs42921/lsst_ 98.5 12.7       20:47
