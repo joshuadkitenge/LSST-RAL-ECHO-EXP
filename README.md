@@ -55,7 +55,7 @@
            host_base = s3.echo.stfc.ac.uk<br>
            host_bucket = s3.echo.stfc.ac.uk/%(bucket)<br>
         - Filling the access key and secret key fields with your Echo S3 credentials. Ensure this file is only readable by your user if you are on a shared system.<br><br>
--**Step 5 :** CephFS configuration <br><br>
+- **Step 5 :** CephFS configuration <br><br>
   - Mount your CephFS instance in your home space (e.g. ~/cephfs_lsst) <br>
   - make sure you call it "cephfs_lsst"<br><br>
 ## Downloading the raw HSC Data
