@@ -1,3 +1,3 @@
 #!/bin/sh
 
-(timeout 18000 iostat 1) &> info_iostat.txt
+(timeout 50000 iostat 1) &> info_iostat.txt

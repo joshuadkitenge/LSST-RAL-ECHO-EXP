@@ -1,4 +1,4 @@
-#source cachedrop.sh
+source cachedrop.sh
 source info_iostat.sh & 
 PID1="$!"
 source info_cpu_mem.sh & 
