@@ -1,1 +1,0 @@
-butler ingest-raws s3://joshuakitenge_GEN3_run_time_test ~/lsst/DATA_gen3/HSC/raw/

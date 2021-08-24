@@ -1,1 +1,0 @@
-pipetask run  -b s3://joshuakitenge_GEN3_run_time_test --input processCcdOutputs --input skymaps --input coadd --register-dataset-types -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#detection --instrument lsst.obs.subaru.HyperSuprimeCam --output-run coaddPhot_dec
