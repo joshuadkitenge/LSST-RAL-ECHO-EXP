@@ -12,10 +12,9 @@ fi
 
 echo "Done: butler create"
 
-if [ -f ~/cephfs_lsst/joshua-kitenge/GEN3_run_time_test/butler.yamll ]; then
-   (cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/register-instrument/ ; source runner.sh)
+
+(cd ~/LSST-RAL-ECHO-EXP/lsst/time_test/cephfs_cd/register-instrument/ ; source runner.sh)
    
-fi
 
 echo "Done: butler register-instruments"
 
