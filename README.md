@@ -68,6 +68,13 @@
   -run: *butler ingest-raws ~/LSST-RAL-ECHO-EXP/lsst/DATA_gen3 ~/LSST-RAL-ECHO-EXP/lsst/testdata_ci_hsc* <br><br>
   
 # Running the test
+- Before running the test you have source the lsst environment<br><br>
+  - run: *cd ~/lsst_stack*<br>
+  - run: *source loadLSST.bash* <br>
+  - run: *setup lsst_distrib*<br>
+  - run: *setup lsst_apps*<br>
+  - run: *export S3_ENDPOINT_URL=**S3_endpoint*** (only needed if you are going to test S3 storage) <br><br>
+  
 - To run all of them:<br><br>
   - *cd ~/LSST-RAL-ECHO-EXP/lsst/pipeline_runners* <br> 
   - run: *source all_runner.sh*<br><br>
