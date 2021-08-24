@@ -72,7 +72,13 @@
   - *cd ~/LSST-RAL-ECHO-EXP/lsst/pipeline_runners* <br> 
   - run: *source all_runner.sh*<br><br>
 - To run one of them source the approperiate script in the pipeline_runner <br><br>
-  - - run: *source <>_runner.sh*<br><br>
+  - run: *source <>_runner.sh*<br><br>
+
+# Analysing the data 
+
+- The data can be found in the time_test directory under its respective endpoint storages and command line tasks/ pipetasks <br>
+- The notebook directory has examples of how I analysed the data, feel free to use this or create your own anaylsis code <br><br>  
+  
 
 
      
