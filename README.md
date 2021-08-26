@@ -46,6 +46,8 @@
     - run: *sudo yum install moreutils* <br><br>
 - **Step 4 :** installing and configurating the s3 tools <br><br>
   - Rclone <br><br>
+    - More information about rclone is within the rclone_docs directory:
+      - run: *cd ~/LSST-RAL-ECHO-EXP/lsst/rclone_docs*  <br><br>
     - Installation:<br>
       - run: *curl https://rclone.org/install.sh | sudo bash* <br>
     - Configuration:<br>
