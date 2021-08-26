@@ -71,7 +71,7 @@
   - Mount your CephFS instance in your home space (e.g. ~/cephfs_lsst) <br>
   - make sure you call it "cephfs_lsst"<br><br>
 ## Downloading the raw HSC Data
-- **you have to been in the lSST conda environment to do this step (look at the beginning of running the test)**
+- **you have to been in the LSST conda environment to do this step (look at the beginning of running the test)**
 - **Step 1:** run: *git lfs install* (in the sourced conda environment )<br><br>
 - **Step 2:** Downloading the sample data<br><br>
   - *cd ~/LSST-RAL-ECHO-EXP/lsst*<br>
@@ -97,9 +97,14 @@
   - run: *source <>_runner.sh*<br><br>
 
 # Analysing the data 
-- Before running the test you have source the lsst environment<br>
 - The data can be found in the time_test directory under its respective endpoint storages and command line tasks/ pipetasks <br>
 - The notebook directory has examples of how I analysed the data, feel free to use this or create your own anaylsis code <br><br>  
+  
+# Useful links 
+
+- pipetasks (https://pipelines.lsst.io/modules/lsst.ctrl.mpexec/pipetask.html?highlight=pipetasks)<br>
+- butler command line task (https://pipelines.lsst.io/modules/lsst.daf.butler/scripts/butler.html)<br>
+- My Community post about the GEN 3 run (https://community.lsst.org/t/recreating-the-lsst-science-pipeline-tutorial-gen-2-only-using-generation-3-command-line-tasks-and-the-pipetasks/5606/52)
   
 
 
