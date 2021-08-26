@@ -4,12 +4,14 @@
 - **This has now been updated to use mulitprocessing, to edit how many processes you have to change "-j 8" in the gen.sh scripts for all of pipetask operations (multiband, processccd and coaddtions)** 
 - **Step 1 :** Setting up the latest lsst environment <br><br>
   - Installing the newinstall.sh and eups distrib <br><br>
+     - The eups distirb is updated weekly and the newinstall scripts is update less frequently but if you notice that eups install doesn't fully excuted you'll need to redownload the latest version of the newinstall
      - Make an installation directory: <br>
        -  run: *mkdir -p lsst_stack*<br>
        -  run: *cd lsst_stack*<br><br>
      - Run newinstall.sh<br><br>
        - Make sure you get the latest tag (https://github.com/lsst/lsst/tags)<br>
        - run: *curl -OL https://raw.githubusercontent.com/lsst/lsst/w.2021.34/scripts/newinstall.sh*<br>
+       - run: *unset LSST_HOME EUPS_PATH LSST_DEVEL EUPS_PKGROOT REPOSITORY_PATH*<br>
        - run: *bash newinstall.sh -ct*<br><br>
        - We recommend that you opt into the provided Miniconda Python environment (see https://pipelines.lsst.io/v/weekly/install/newinstall.html). Then load the LSST software environment into your shell:<br><br>
          - run: *source loadLSST.bash* # for bash <br>
