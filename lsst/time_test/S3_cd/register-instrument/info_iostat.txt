@@ -1,38 +1,45 @@
-Linux 3.10.0-1160.24.1.el7.x86_64 (joshua-lsst.novalocal) 	08/20/2021 	_x86_64_	(8 CPU)
+Linux 3.10.0-1160.24.1.el7.x86_64 (joshua-lsst.novalocal) 	08/25/2021 	_x86_64_	(8 CPU)
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-          13.19    0.00    5.45    0.05    0.03   81.27
+          11.73    0.00    2.85    0.08    0.03   85.31
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               7.84       149.80       851.75   24228296  137760466
+vda               5.06       114.93       482.96   62634273  263211382
 scd0              0.00         0.00         0.00        126          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-          14.97    0.00    9.31    0.00    0.00   75.72
+          15.08    0.00    9.17    0.00    0.00   75.75
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
 vda               3.00         0.00        12.00          0         12
 scd0              0.00         0.00         0.00          0          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-          11.28    0.00    1.50    0.00    0.13   87.09
+          11.14    0.00    1.75    0.13    0.00   86.98
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+vda               7.00        56.00         0.00         56          0
+scd0              0.00         0.00         0.00          0          0
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.40    0.00    1.00    0.13    0.13   88.35
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+vda              48.00       156.00       404.50        156        404
+scd0              0.00         0.00         0.00          0          0
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           9.03    0.00    0.88    2.26    0.00   87.83
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+vda             348.00      2736.00       141.00       2736        141
+scd0              0.00         0.00         0.00          0          0
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    0.50    0.00    0.00   99.25
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
 vda               0.00         0.00         0.00          0          0
-scd0              0.00         0.00         0.00          0          0
-
-avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-          10.29    0.00    1.00    0.13    0.00   88.58
-
-Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda              15.00         0.00       101.00          0        101
-scd0              0.00         0.00         0.00          0          0
-
-avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           7.62    0.00    0.75    0.12    0.00   91.50
-
-Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               9.00         0.00       140.00          0        140
 scd0              0.00         0.00         0.00          0          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
@@ -43,7 +50,21 @@ vda               0.00         0.00         0.00          0          0
 scd0              0.00         0.00         0.00          0          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           0.13    0.00    0.38    0.00    0.00   99.50
+           0.12    0.00    0.37    0.00    0.12   99.38
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+vda               0.00         0.00         0.00          0          0
+scd0              0.00         0.00         0.00          0          0
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.25    0.00    0.00   99.62
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+vda               1.00         0.00         8.00          0          8
+scd0              0.00         0.00         0.00          0          0
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.25    0.00    0.00   99.62
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
 vda               0.00         0.00         0.00          0          0
@@ -53,14 +74,14 @@ avg-cpu:  %user   %nice %system %iowait  %steal   %idle
            0.13    0.00    0.38    0.00    0.00   99.50
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda              29.00         0.00       272.50          0        272
+vda               0.00         0.00         0.00          0          0
 scd0              0.00         0.00         0.00          0          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           0.38    0.00    0.38    0.00    0.13   99.12
+           0.25    0.00    0.25    0.00    0.13   99.37
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               5.00         0.00        20.00          0         20
+vda               0.00         0.00         0.00          0          0
 scd0              0.00         0.00         0.00          0          0
 
 avg-cpu:  %user   %nice %system %iowait  %steal   %idle
@@ -75,26 +96,5 @@ avg-cpu:  %user   %nice %system %iowait  %steal   %idle
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
 vda               0.00         0.00         0.00          0          0
-scd0              0.00         0.00         0.00          0          0
-
-avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           0.00    0.00    0.50    0.00    0.00   99.50
-
-Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               0.00         0.00         0.00          0          0
-scd0              0.00         0.00         0.00          0          0
-
-avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           0.13    0.00    0.38    0.00    0.00   99.50
-
-Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               0.00         0.00         0.00          0          0
-scd0              0.00         0.00         0.00          0          0
-
-avg-cpu:  %user   %nice %system %iowait  %steal   %idle
-           0.00    0.00    0.25    0.00    0.00   99.75
-
-Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-vda               8.00         0.00        32.00          0         32
 scd0              0.00         0.00         0.00          0          0
 

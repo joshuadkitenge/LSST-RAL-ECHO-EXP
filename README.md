@@ -1,5 +1,7 @@
 # Processing survey images and testing the overall time using various endpoint storages
 ## Configuration
+- **This benchmarking code must be cloned into your homespace**
+- **This has now been updated to use mulitprocessing, to edit how many processes you have to change "-j 8" in the gen.sh scripts for all of pipetask operations (multiband, processccd and coaddtions)** 
 - **Step 1 :** Setting up the latest lsst environment <br><br>
   - Installing the newinstall.sh and eups distrib <br><br>
      - Make an installation directory: <br>

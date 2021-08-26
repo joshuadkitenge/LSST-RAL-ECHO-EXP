@@ -25,13 +25,13 @@ butler ingest-raws GEN3_run/ ~/LSST-RAL-ECHO-EXP/lsst/DATA_gen3/HSC/raw
 butler define-visits GEN3_run/ HSC
 butler write-curated-calibrations GEN3_run/ HSC
 
-pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input HSC/raw/all,refcats,HSC/calib --register-dataset-types -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#processCcd --instrument lsst.obs.subaru.HyperSuprimeCam  --output-run processCcdOutputs  -c isr:doBias=False -c isr:doBrighterFatter=False -c isr:doDark=False -c isr:doFlat=False -c isr:doDefect=False 
+pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input HSC/raw/all,refcats,HSC/calib --register-dataset-types -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#processCcd --instrument lsst.obs.subaru.HyperSuprimeCam -j 8 --output-run processCcdOutputs  -c isr:doBias=False -c isr:doBrighterFatter=False -c isr:doDark=False -c isr:doFlat=False -c isr:doDefect=False 
 
 butler make-discrete-skymap GEN3_run/ HSC --collections processCcdOutputs
 
-pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input processCcdOutputs --input skymaps --input  HSC/raw/all,refcats,HSC/calib  --register-dataset-types -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#coaddition --instrument lsst.obs.subaru.HyperSuprimeCam  --output-run coadd -c makeWarp:doApplySkyCorr=False -c makeWarp:doApplyExternalSkyWcs=False -c makeWarp:doApplyExternalPhotoCalib=False
+pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input processCcdOutputs --input skymaps --input  HSC/raw/all,refcats,HSC/calib  --register-dataset-types -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#coaddition --instrument lsst.obs.subaru.HyperSuprimeCam -j 8  --output-run coadd -c makeWarp:doApplySkyCorr=False -c makeWarp:doApplyExternalSkyWcs=False -c makeWarp:doApplyExternalPhotoCalib=False
 
-pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input processCcdOutputs --input  HSC/raw/all,refcats,HSC/calib --input skymaps --input coadd --register-dataset-types --input  HSC/raw/all,refcats,HSC/calib  -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#multiband --instrument lsst.obs.subaru.HyperSuprimeCam --output-run multiband
+pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input processCcdOutputs --input  HSC/raw/all,refcats,HSC/calib --input skymaps --input coadd --register-dataset-types --input  HSC/raw/all,refcats,HSC/calib  -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#multiband --instrument lsst.obs.subaru.HyperSuprimeCam -j 8 --output-run multiband
 
 #pipetask run  -b ~/LSST-RAL-ECHO-EXP/lsst/GEN3_run/ --input processCcdOutputs --input  HSC/raw/all,refcats,HSC/calib --input skymaps --input coadd --register-dataset-types --input  HSC/raw/all,refcats,HSC/calib  -p ~/LSST-RAL-ECHO-EXP/lsst/DRP.yaml#detection --instrument lsst.obs.subaru.HyperSuprimeCam --output-run coaddPhot_dec
 

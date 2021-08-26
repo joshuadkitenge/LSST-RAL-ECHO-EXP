@@ -1,16 +1,13 @@
   PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_  0.0  0.0       00:00
+22900 python /home/vrs42921/lsst_  0.0  0.0       00:00
   PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_  166  0.2       00:01
+22900 python /home/vrs42921/lsst_ 97.5  0.2       00:02
   PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_  119  0.4       00:02
+22900 python /home/vrs42921/lsst_ 95.3  0.5       00:03
   PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_ 98.0  0.5       00:03
+22900 python /home/vrs42921/lsst_ 92.0  0.7       00:04
   PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_ 90.2  0.6       00:04
-  PID CMD                         %CPU %MEM     ELAPSED
- 8189 python /home/vrs42921/lsst_ 86.0  0.7       00:05
-  PID CMD                         %CPU %MEM     ELAPSED
+22900 python /home/vrs42921/lsst_ 88.6  0.7       00:05
   PID CMD                         %CPU %MEM     ELAPSED
   PID CMD                         %CPU %MEM     ELAPSED
   PID CMD                         %CPU %MEM     ELAPSED
