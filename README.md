@@ -24,13 +24,21 @@
            - run: *curl -sSL https://raw.githubusercontent.com/lsst/shebangtron/master/shebangtron | python*<br>
            - run: *setup lsst_distrib*<br>
            - run: *setup lsst_apps*<br><br>
-- **Step 2 :** Changing the configuration of obs_subrau package <br><br>
+- **Step 2 :** Changing the configuration of obs_subaru and meas_base package <br><br>
   - Bright object mask error solution <br><br>
     - path to repo (Note: this is a guide to the path, your path is likely to be a tiny bit different (different numbers))cd ~/lsst_stack/stack/miniconda3-py38_4.9.2-0.6.0/Linux64/obs_subaru/22.0.1-20-g904645ea+7c6b33a4e9/config/ <br>
     - Within this repository there is the "measureCoaddSources.py" and "forcedPhotCoadd.py" <br>
     - Comment out these lines in both of the scripts above:<br><br>
-      -  config.measurement.plugins['base_PixelFlags'].masksFpCenter.append('BRIGHT_OBJECT')<br>
+      - config.measurement.plugins['base_PixelFlags'].masksFpCenter.append('BRIGHT_OBJECT')<br>
       - config.measurement.plugins['base_PixelFlags'].masksFpAnywhere.append('BRIGHT_OBJECT')<br><br>
+  - Fixing the id factory "large exporsure ID "<br><br>
+    - path to repo  (Note: this is a guide to the path, your path is likely to be a tiny bit different (different numbers)) cd lsst_stack/stack/miniconda3-py38_4.9.2-0.6.0/Linux64/meas_base/22.0.1-10-gba590ab+1f0801fda2/python/lsst/meas/base/ <br>
+    - comment out this line: <br>
+      - idFactory = lsst.afw.table.IdFactory.makeSource(expId, 64 - expBits) <br><br> 
+    - Copy the import in the import section and the rest in the generateMeasCat <br>
+    -   from lsst.obs.base import ExposureIdInfo <br>  
+        exposureIdInfo = ExposureIdInfo.fromDataId(exposureDataId, "tract_patch_band")<br>
+        idFactory = exposureIdInfo.makeSourceIdFactory()<br><br>
 - **Step 3 :** Installing all of the profiling tools<br><br>
   - iostat: (disk profiling) <br>
     - run: *yum -y install sysstat*<br><br>
@@ -63,13 +71,16 @@
   - Mount your CephFS instance in your home space (e.g. ~/cephfs_lsst) <br>
   - make sure you call it "cephfs_lsst"<br><br>
 ## Downloading the raw HSC Data
-- **Step 1:** run: *git lfs install*<br><br>
+- **you have to been in the lSST conda environment to do this step (look at the beginning of running the test)**
+- **Step 1:** run: *git lfs install* (in the sourced conda environment )<br><br>
 - **Step 2:** Downloading the sample data<br><br>
   - *cd ~/LSST-RAL-ECHO-EXP/lsst*<br>
   - *git clone https://github.com/lsst/testdata_ci_hsc*<br><br>
 
 - **Step 3:** Moving the data so it works with the testing<br><br>
-  -run: *butler ingest-raws ~/LSST-RAL-ECHO-EXP/lsst/DATA_gen3 ~/LSST-RAL-ECHO-EXP/lsst/testdata_ci_hsc* <br><br>
+  - run: setup lsst_distrib
+  - run: setup lsst_apps
+  - run: *butler ingest-raws ~/LSST-RAL-ECHO-EXP/lsst/DATA_gen3 ~/LSST-RAL-ECHO-EXP/lsst/testdata_ci_hsc/raw* <br><br>
   
 # Running the test
 - Before running the test you have source the lsst environment<br><br>
@@ -86,7 +97,7 @@
   - run: *source <>_runner.sh*<br><br>
 
 # Analysing the data 
-
+- Before running the test you have source the lsst environment<br>
 - The data can be found in the time_test directory under its respective endpoint storages and command line tasks/ pipetasks <br>
 - The notebook directory has examples of how I analysed the data, feel free to use this or create your own anaylsis code <br><br>  
   
